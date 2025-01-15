@@ -20,7 +20,7 @@ public class Ui {
         while (true) {
             System.out.println("1. Product Operations");
             System.out.println("2. Character Operations");
-            System.out.println("3. Filter and Sorting Functions");
+            System.out.println("3. Filter, Adding and Sorting Methods");
             System.out.println("0. Exit");
 
             int option;

@@ -1,7 +1,6 @@
 package ex2.repository;
 
 import ex2.model.Product;
-import ex2.model.Season;
 
 import java.util.ArrayList;
 import java.util.List;
